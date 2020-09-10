@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Saccade\Desktop\Projects\BasicTCPServer\myClient\myClient\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Saccade\Desktop\Projects\BasicTCPServer\myClient\myClient\main.cpp(75,7): warning C4101: 'buf': unreferenced local variable
+  myClient.vcxproj -> C:\Users\Saccade\Desktop\Projects\BasicTCPServer\myClient\Debug\MyClient.exe
